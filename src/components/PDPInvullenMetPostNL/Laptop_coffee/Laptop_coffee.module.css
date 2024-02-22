@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.page1 {
+  position: absolute;
+  left: 4px;
+  top: 80px;
+  width: 288.7662px;
+  height: 153.8534px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

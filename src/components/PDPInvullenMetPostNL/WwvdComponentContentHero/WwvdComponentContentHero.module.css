@@ -1,0 +1,32 @@
+.wwvdElementHeroTitle.wwvdElementHeroTitle {
+  width: initial;
+  flex: 1;
+}
+.Image.Image.Image {
+  background-image:/* webpackIgnore: true */ url('assets/Image2.png');
+}
+.root {
+  width: 1194px;
+  height: min-content;
+  align-items: center;
+  gap: 50px;
+  padding: 102px 124px 102px 45px;
+  background-color: #fff;
+}
+
+/* Tablet */
+@media (max-width: 1194px) {
+  .root {
+    padding: 20px 20px;
+    width: 100%;
+  }
+
+  .wwvdElementHeroTitle.wwvdElementHeroTitle {
+    width: 100%;
+  }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+
+}

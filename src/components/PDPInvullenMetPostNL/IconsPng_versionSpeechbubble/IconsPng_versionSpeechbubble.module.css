@@ -1,0 +1,18 @@
+.root {
+  position: relative;
+  width: 2481px;
+  height: 2482px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.pNL_05_TLike_Speechbubble_ID23 {
+  position: absolute;
+  left: 0;
+  right: -0.0403%;
+  top: 0.0403%;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('assets/pNL_05_TLike_Speechbubble_ID23.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

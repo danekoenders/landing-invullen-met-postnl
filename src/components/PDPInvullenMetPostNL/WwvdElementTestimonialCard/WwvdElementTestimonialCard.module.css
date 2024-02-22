@@ -1,0 +1,136 @@
+.root {
+  width: 553px;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  gap: 12px;
+  padding: 24px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0px 4px 9px 0px #171a1f1c, 0px 4px 4px 0px #171a1f1f;
+}
+.stars {
+  position: relative;
+  height: 36px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rating1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 180px;
+  height: 36px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #0000;
+}
+.frame {
+  position: absolute;
+  left: 0px;
+  top: 0;
+  width: 36px;
+  height: 36px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.frame2 {
+  position: absolute;
+  left: 36px;
+  top: 0;
+  width: 36px;
+  height: 36px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.frame3 {
+  position: absolute;
+  left: 72px;
+  top: 0;
+  width: 36px;
+  height: 36px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.frame4 {
+  position: absolute;
+  left: 108px;
+  top: 0;
+  width: 36px;
+  height: 36px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.frame5 {
+  position: absolute;
+  left: 144px;
+  top: 0;
+  width: 36px;
+  height: 36px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.testimonial {
+  height: min-content;
+  align-self: stretch;
+}
+.testimonial2 {
+  color: #1f1e2f;
+  font-size: 16px;
+  line-height: 160%;
+  font-family: Hanken Grotesk, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.photo {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 12px;
+}
+.frame9288 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+}
+.temporLabori {
+  color: #1f1e2f;
+  font-size: 16px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Hanken Grotesk, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.temporEsseAuteMagna {
+  color: #1f1e2f;
+  font-size: 14px;
+  line-height: 160%;
+  font-family: Hanken Grotesk, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}

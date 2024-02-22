@@ -1,0 +1,86 @@
+.wwvdElementTestimonialCard.wwvdElementTestimonialCard {
+  width: 540px;
+  flex: initial;
+  align-items: flex-start;
+}
+.wwvdElementTestimonialCard2.wwvdElementTestimonialCard2 {
+  width: 540px;
+  height: initial;
+  flex: initial;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.testimonial2.testimonial2 {
+  height: initial;
+  flex: 1;
+  align-items: flex-start;
+}
+.testimonial {
+  color: #1f1e2f;
+  font-size: 16px;
+  line-height: 160%;
+  font-family: Hanken Grotesk, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.temporLabori {
+  color: #1f1e2f;
+  font-size: 16px;
+  line-height: 160%;
+  font-weight: bold;
+  font-family: Hanken Grotesk, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.temporEsseAuteMagna {
+  color: #1f1e2f;
+  font-size: 14px;
+  line-height: 160%;
+  font-family: Hanken Grotesk, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.root {
+  width: 1194px;
+  height: min-content;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 34px;
+  padding: 64px 45px;
+  background-color: #fbfbfb;
+}
+.title {
+  color: #001a73;
+  font-size: 33px;
+  line-height: 95%;
+  font-weight: bold;
+  font-family: ABC ROM, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.5px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.testimonials {
+  height: min-content;
+  align-self: stretch;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 24px;
+}

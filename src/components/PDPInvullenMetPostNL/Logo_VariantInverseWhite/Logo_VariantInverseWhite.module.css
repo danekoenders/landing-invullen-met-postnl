@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 144px;
+  height: 144px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.vector {
+  position: absolute;
+  left: 0.6944%;
+  right: 0.7222%;
+  top: 1.3889%;
+  bottom: 1.1564%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

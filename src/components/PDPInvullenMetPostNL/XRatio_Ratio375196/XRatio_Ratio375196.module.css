@@ -1,0 +1,10 @@
+.root {
+  position: relative;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  background-image:/* webpackIgnore: true */ url('assets/ratio375196.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

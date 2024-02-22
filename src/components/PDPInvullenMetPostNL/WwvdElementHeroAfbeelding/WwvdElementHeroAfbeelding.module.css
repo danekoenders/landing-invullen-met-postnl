@@ -1,0 +1,24 @@
+.Image.Image {
+  height: initial;
+  flex: 1;
+  border-radius: 0 8px 8px;
+  background-image:/* webpackIgnore: true */ url('assets/Image.png');
+}
+.aspectRatioKeeperRotatedAutoLa.aspectRatioKeeperRotatedAutoLa {
+  height: 215.343px;
+  align-self: stretch;
+  overflow: visible;
+}
+.spark.spark {
+  position: absolute;
+  left: -16px;
+  top: -16px;
+}
+.root {
+  position: relative;
+  width: 412px;
+  height: 379px;
+  max-height: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+}

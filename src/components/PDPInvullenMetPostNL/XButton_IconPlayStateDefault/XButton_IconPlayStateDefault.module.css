@@ -1,0 +1,23 @@
+.Icon.Icon {
+  left: 20%;
+  right: 20%;
+  top: 20%;
+  bottom: 20%;
+  width: initial;
+  height: initial;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 80px;
+  height: 80px;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 100px;
+  background-color: #fffc;
+}
